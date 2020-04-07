@@ -1,0 +1,9 @@
+"# poisson"
+
+*.ai
+
+Backup
+device
+media/movie
+
+poisson.*.toe
